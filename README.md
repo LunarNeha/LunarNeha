@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I’m Neha Joshi!<br>🔭 I’m a passionate web developer with a focus on frontend technologies.<br>🌱 Currently exploring React, Node.js, and JavaScript.<br>💬 I love collaborating on open-source projects and building user-friendly applications.<br>📂 Feel free to explore my repositories to see the projects I’m working on!<br>
 
 
